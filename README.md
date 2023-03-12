@@ -13,16 +13,3 @@ Training link : https://wiki.osgeo.org/wiki/Training_Material_for_2019_UN_Open_G
 
 
 Our Map : https://gisproject10.herokuapp.com/
-
-Project Members ;
-
-      Emre GÖKBULUT - 21632624
-      
-      Berkay AKINCI - 21967277
-
-      Oktay ÇAKMAK - 21732991
-      
-      İrem BAKIR - 21732881
-      
-      Yunus Berkay DOLAKSIZ - 21733045
-    
